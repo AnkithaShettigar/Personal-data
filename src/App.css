@@ -243,13 +243,25 @@ a {
 .prj6 {
   background-image: url(./pics/ReactBlog.png);
 }
+.prj8 {
+  background-image: url(./pics/Mern.JPG);
+}
+.prj9 {
+  background-image: url(./pics/ecomm.JPG);
+}
+.prj10 {
+  background-image: url(./pics/placement.JPG);
+}
 .prj1,
 .prj2,
 .prj3,
 .prj4,
 .prj5,
 .prj6,
-.prj7 {
+.prj7,
+.prj8,
+.prj9,
+.prj10 {
   width: 300px;
   height: 200px;
   background-size: cover;

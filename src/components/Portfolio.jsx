@@ -26,6 +26,15 @@ const Portfolio = () => {
         <a href="https://react-new-project.netlify.app/">
           <div className="prj6"></div>
         </a>
+        <a href="https://mern-full-react.netlify.app/">
+          <div className="prj8"></div>
+        </a>
+        <a href="https://ecommerce-mobile-ishop.netlify.app/">
+          <div className="prj9"></div>
+        </a>
+        <a href="https://placement-assign-app.netlify.app/">
+          <div className="prj10"></div>
+        </a>
       </div>
     </div>
   );
