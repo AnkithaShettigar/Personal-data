@@ -252,6 +252,15 @@ a {
 .prj10 {
   background-image: url(./pics/placement.JPG);
 }
+.prj11 {
+  background-image: url(./pics/Hotstar.JPG);
+}
+.prj12 {
+  background-image: url(./pics/Quiz.JPG);
+}
+.prj13 {
+  background-image: url(./pics/Emi.JPG);
+}
 .prj1,
 .prj2,
 .prj3,
@@ -261,7 +270,10 @@ a {
 .prj7,
 .prj8,
 .prj9,
-.prj10 {
+.prj10,
+.prj11,
+.prj12,
+.prj13 {
   width: 300px;
   height: 200px;
   background-size: cover;
