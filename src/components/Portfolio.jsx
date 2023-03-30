@@ -44,6 +44,9 @@ const Portfolio = () => {
         <a href="https://personal-loan-calci.netlify.app/">
           <div className="prj13"></div>
         </a>
+        <a href="https://latest-news-app.netlify.app/">
+          <div className="prj14"></div>
+        </a>
       </div>
     </div>
   );

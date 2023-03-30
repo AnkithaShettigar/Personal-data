@@ -261,6 +261,9 @@ a {
 .prj13 {
   background-image: url(./pics/Emi.JPG);
 }
+.prj14 {
+  background-image: url(./pics/news.JPG);
+}
 .prj1,
 .prj2,
 .prj3,
@@ -273,7 +276,8 @@ a {
 .prj10,
 .prj11,
 .prj12,
-.prj13 {
+.prj13,
+.prj14 {
   width: 300px;
   height: 200px;
   background-size: cover;
